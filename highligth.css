@@ -1,0 +1,41 @@
+.golang {
+    background: rgb(245, 245, 245);
+    padding: 10px;
+    border-radius: 5px;
+    
+    font-size: 14px;
+    
+}
+
+.g {
+    font-style: normal;
+    
+}
+
+.gkw {
+    color: #ff6337;
+}
+
+.gty {
+    color: #00b159;
+}
+
+.gfn {
+    color: #00aedb;
+}
+
+.gparam {
+    color: #c40b13;
+}
+
+.gstr {
+    color: #df7599;
+}
+
+.gd {
+    color: #a64942;
+}
+
+.gcom {
+    color: grey;
+}
